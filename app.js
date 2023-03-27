@@ -1,5 +1,8 @@
-const names = ["jessica", "davis"]
+const DoSomething() {
 
-for (let name of names) {
-    console.log(name);
+
+}
+
+const DoSomething = () => {
+    
 }
