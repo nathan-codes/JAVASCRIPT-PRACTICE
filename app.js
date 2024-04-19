@@ -1,8 +1,1 @@
-const DoSomething() {
-
-
-}
-
-const DoSomething = () => {
-    
-}
+console.log("Yamen ")
